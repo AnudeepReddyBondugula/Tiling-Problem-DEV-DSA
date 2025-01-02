@@ -113,6 +113,4 @@ export function getRandomHexColor() {
 
 
 
-
-
 export default solve;
